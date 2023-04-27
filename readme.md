@@ -20,6 +20,7 @@ Este projeto tem como objetivo apresentar conhecimentos básicos em funções co
 ## Observações
 
 A função está no arquivo main.py
+Veja o código rodando em replit.com/@LukasRocha/validacaocpf
 
 ## Autor
 
