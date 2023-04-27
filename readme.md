@@ -1,4 +1,4 @@
-# validacao_cpf
+# 🪪 validacao_cpf
 
 [![Badge](https://img.shields.io/badge/License-MIT-blue)](LICENSE.md)
 [![Python Badge](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
@@ -16,6 +16,12 @@ Este projeto foi desenvolvido em Python.
 ## Objetivo
 
 Este projeto tem como objetivo apresentar conhecimentos básicos em funções com Python e lógica de programação.
+
+## Como Executar
+
+Para executar o programa, certifique-se de ter o Python 3.x e a biblioteca Tkinter 8.6 instalados em seu computador.
+
+Em seguida, abra o terminal na pasta do projeto e execute o seguinte comando:
 
 ## Observações
 
