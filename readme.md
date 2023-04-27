@@ -7,7 +7,7 @@
 
 Este repositório contém uma função em Python para validar CPFs.
 
-A função `valida_cpf` recebe um parâmetro de 11 dígitos (CPF) e retorna se ele é válido ou não. Caso a entrada seja inválida (não tenha 11 dígitos ou seja nula), será retornada uma mensagem de erro.
+A função `validarcpf` recebe um parâmetro de 11 dígitos (CPF) e retorna se ele é válido ou não. Caso a entrada seja inválida (não tenha 11 dígitos ou seja nula), será retornada uma mensagem de erro.
 
 ## Linguagem
 
@@ -19,8 +19,8 @@ Este projeto tem como objetivo apresentar conhecimentos básicos em funções co
 
 ## Observações
 
-O código contém validações para verificar se a entrada (CPF) não é nula e se possui 11 dígitos.
+A função está no arquivo main.py
 
 ## Autor
 
-Este projeto foi criado por LUKAS.
+LUKAS ROCHA
